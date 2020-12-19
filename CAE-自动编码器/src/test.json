@@ -1,0 +1,9 @@
+{
+  "chkpt"       : "E:\\PycharmProjects\\cae_96_96\\checkpoint\\model_96x16x16_test_no_quantization_700.pth",
+  "exp_name"    : "default",
+  "batch_every" : 100,
+  "shuffle"     : false,
+  "dataset_path": "E:\\PycharmProjects\\data\\cae_96_96_num_1000\\bird",
+  "num_workers" : 1,
+  "device"      : "cuda"
+}

@@ -1,0 +1,16 @@
+{
+  "num_epochs"   : 60,
+  "batch_size"   : 10,
+  "learning_rate": 1e-4,
+  "resume"       : false,
+  "chkpt"        : "E:/PycharmProjects/cae_96_96/experiments/default/chkpt/model_96x16x16_DepthToSpace_round_19.pth",
+  "start_epoch"  : 1,
+  "exp_name"     : "default",
+  "batch_every"  : 10,
+  "save_every"   : 10,
+  "epoch_every"  : 1,
+  "shuffle"      : true,
+  "dataset_path" : "E:/PycharmProjects/data/STL-10/train_no_class",
+  "num_workers"  : 2,
+  "device"       : "cuda"
+}
